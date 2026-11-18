@@ -1,0 +1,1364 @@
+Origin,Destination,stop_sequence,route_id,0-3,3-6,6-9,9-12,12-15,15-18,18-21,21-24,monday,tuesday,wednesday,thursday,friday,saturday,sunday,delay
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,215.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",6,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,6.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",6,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",6,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,10.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,5.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,14.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,13.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",6,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,6.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,228.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",15,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,8.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Handschuhsheim, Burgstraße","Handschuhsheim, Biethsstraße",1,14222,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,10.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,4.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,5.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",17,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,8.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,6.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,150.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",17,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,11.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,6.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",17,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,7.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",10,13227,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,227.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",12,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,9.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Christuskirche","Heidelberg, Weststadt/Südstadt",5,737,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,3.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,7.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,15.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,185.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,9.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,7.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,146.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",16,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,10.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,4.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,4.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,7451,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,5.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,14.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,19881,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",7,14629,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,5.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,15.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,8.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",9,13707,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,5.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",24,15066,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,11.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,15.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,14629,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",13,13227,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",4,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,5.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Heidelberg, Stadtwerke","Heidelberg, Hauptbahnhof",25,9857,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,130.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,130.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,10.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,8.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Inselstraße,Im Degen,5,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Inselstraße,Im Degen,3,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,131.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,131.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,11.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,9.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Karl-Olga-Krankenhaus,Stöckach,12,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Karl-Olga-Krankenhaus,Stöckach,11,7065,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,36.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,3.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,3.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",14,10632,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",18,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Hauptfriedhof","Mannheim, Pfeifferswörth",24,10632,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,4.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,36.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,5.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",22,3934,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,10659,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,200.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,2.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",5,3243,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",8,22656,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0.0
+"Mannheim, Rheinstraße","Mannheim, Rathaus/REM",17,3243,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,4.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,141.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,7.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,16.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,11,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Mercedesstraße,Mineralbäder,9,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,29.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,33.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,25.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,25.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,25.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,26.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,25.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Mineralbäder,18,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Mineralbäder,15,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,2.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,5.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,3.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,141.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,7.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,2.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,16.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,13,14101,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Metzstraße,Stöckach,11,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,3.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,131.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,4.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,131.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,13.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,9.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,9.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,3.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,6.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,16.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,4.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,21036,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,2.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,1.0
+Schwab-/Bebelstraße,Arndt-/Spittastraße,20,22298,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1.0

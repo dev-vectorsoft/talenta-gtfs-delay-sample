@@ -1,0 +1,24 @@
+1363 rows, 77 without delay value
+
+Mean and median delay per origin-destination pair:
+                                                           count  mean  median
+Origin                     Destination                                        
+Handschuhsheim, Burgstraße Handschuhsheim, Biethsstraße      137  4.00     0.0
+Heidelberg, Christuskirche Heidelberg, Weststadt/Südstadt    106  4.37     0.0
+Heidelberg, Stadtwerke     Heidelberg, Hauptbahnhof          160  3.96     1.0
+Inselstraße                Im Degen                          112  2.95     0.0
+Karl-Olga-Krankenhaus      Stöckach                          112  3.54     1.0
+Mannheim, Hauptfriedhof    Mannheim, Pfeifferswörth          106  8.30     0.0
+Mannheim, Rheinstraße      Mannheim, Rathaus/REM             101  8.62     0.0
+Mercedesstraße             Mineralbäder                      115  2.53     1.0
+Metzstraße                 Mineralbäder                      106  2.79     1.0
+                           Stöckach                          114  2.56     1.0
+Schwab-/Bebelstraße        Arndt-/Spittastraße               117  3.62     1.0
+
+Median delay per scheduled time slot:
+time_slot
+9-12     200.0
+12-15      1.0
+15-18      1.0
+18-21      1.0
+21-24      0.0

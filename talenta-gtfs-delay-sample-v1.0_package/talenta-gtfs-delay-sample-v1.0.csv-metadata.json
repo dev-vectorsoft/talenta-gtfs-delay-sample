@@ -1,0 +1,34 @@
+{
+  "@context": ["http://www.w3.org/ns/csvw", {"@language": "en"}],
+  "url": "talenta-gtfs-delay-sample-v1.0.csv",
+  "dc:title": "Talenta Sample Dataset: Calculated Public-Transport Delays at 10 Stops",
+  "dc:description": "Sample of the prepared GTFS delay dataset of the mFUND project Talenta (FKZ 01F2235A-C). Derived from real static and real-time GTFS data; delay = actual minus scheduled arrival time.",
+  "dc:publisher": "Vectorsoft AG",
+  "schema:version": "1.0",
+  "dc:conformsTo": "https://github.com/dev-vectorsoft/talenta/ontology/2.0",
+  "dialect": {"delimiter": ",", "encoding": "utf-8", "header": true, "lineTerminators": ["\r\n"]},
+  "tableSchema": {
+    "columns": [
+      {"name": "Origin", "titles": "Origin", "datatype": "string", "required": true, "dc:description": "Name of the previous stop the vehicle came from", "propertyUrl": "http://vocab.gtfs.org/terms#originStop"},
+      {"name": "Destination", "titles": "Destination", "datatype": "string", "required": true, "dc:description": "Name of the stop the vehicle arrived at (GTFS stop_name)", "propertyUrl": "http://vocab.gtfs.org/terms#destinationStop"},
+      {"name": "stop_sequence", "titles": "stop_sequence", "datatype": "integer", "required": true, "dc:description": "GTFS stop_sequence of the arrival stop within the trip", "propertyUrl": "http://vocab.gtfs.org/terms#stopSequence"},
+      {"name": "route_id", "titles": "route_id", "datatype": "integer", "required": true, "dc:description": "GTFS route_id of the source feed (feed-internal)", "propertyUrl": "http://vocab.gtfs.org/terms#route"},
+      {"name": "slot_00_03", "titles": "0-3", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 00:00 and 03:00"},
+      {"name": "slot_03_06", "titles": "3-6", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 03:00 and 06:00"},
+      {"name": "slot_06_09", "titles": "6-9", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 06:00 and 09:00"},
+      {"name": "slot_09_12", "titles": "9-12", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 09:00 and 12:00"},
+      {"name": "slot_12_15", "titles": "12-15", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 12:00 and 15:00"},
+      {"name": "slot_15_18", "titles": "15-18", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 15:00 and 18:00"},
+      {"name": "slot_18_21", "titles": "18-21", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 18:00 and 21:00"},
+      {"name": "slot_21_24", "titles": "21-24", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "dc:description": "1 if the scheduled time falls between 21:00 and 24:00"},
+      {"name": "monday", "titles": "monday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#monday"},
+      {"name": "tuesday", "titles": "tuesday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#tuesday"},
+      {"name": "wednesday", "titles": "wednesday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#wednesday"},
+      {"name": "thursday", "titles": "thursday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#thursday"},
+      {"name": "friday", "titles": "friday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#friday"},
+      {"name": "saturday", "titles": "saturday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#saturday"},
+      {"name": "sunday", "titles": "sunday", "datatype": {"base": "integer", "minimum": 0, "maximum": 1}, "propertyUrl": "http://vocab.gtfs.org/terms#sunday"},
+      {"name": "delay", "titles": "delay", "datatype": {"base": "decimal", "minimum": 0}, "required": false, "dc:description": "Actual minus scheduled arrival time; empty if not available. Unit: minutes (inferred from the value distribution)"}
+    ]
+  }
+}
