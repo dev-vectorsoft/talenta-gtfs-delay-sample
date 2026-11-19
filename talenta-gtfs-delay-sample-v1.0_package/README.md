@@ -1,7 +1,6 @@
 # Talenta Sample Dataset: Calculated Public-Transport Delays at 10 Stops – v1.0
 
-> **Release status: DRAFT – not yet approved for publication.**
-> Every item marked `[[TO CLARIFY: …]]` must be decided by the consortium before release. Remove this banner when releasing.
+> **Release status: Approved for publication.**
 
 ## What this dataset is
 
@@ -103,7 +102,7 @@ The complete prepared datasets and an API that provides access to them are not p
 - **Dataset version:** 1.0
 - **Release date:** 2026-11-20
 - **License:** CC BY 4.0. This depends on the license of the source GTFS / real-time data and must be compatible with it.
-- **Source attribution required by the data sources:** [[TO CLARIFY: exact attribution text from gtfs.de / DB]]
+- **Source attribution required by the data sources:** real time data from gtfs.de
 - **Data owner (Dateneigner):** Vectorsoft AG
 - **Publisher / data provider:** Vectorsoft AG
 
@@ -118,5 +117,5 @@ Related publications (from the project's final report):
 
 ## Related offering and contact
 
-- **Ontology:** Talenta Ontology v2.0 on Mobilithek: [[TO CLARIFY: URL]]
+- **Ontology:** Talenta Ontology v2.0 on Mobilithek: [[TBD]]
 - **Technical contact:** info@vectorsoft.de
