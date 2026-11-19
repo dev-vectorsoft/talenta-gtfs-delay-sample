@@ -100,7 +100,7 @@ The complete prepared datasets and an API that provides access to them are not p
 ## Version, license and citation
 
 - **Dataset version:** 1.0
-- **Release date:** 2026-11-20
+- **Release date:** 2026-11-19
 - **License:** CC BY 4.0. This depends on the license of the source GTFS / real-time data and must be compatible with it.
 - **Source attribution required by the data sources:** real time data from gtfs.de
 - **Data owner (Dateneigner):** Vectorsoft AG
@@ -117,5 +117,5 @@ Related publications (from the project's final report):
 
 ## Related offering and contact
 
-- **Ontology:** Talenta Ontology v2.0 on Mobilithek: [[TBD]]
+- **Ontology:** Talenta Ontology v2.0 on Mobilithek: https://mobilithek.info/offers/1059542375730159616
 - **Technical contact:** info@vectorsoft.de
